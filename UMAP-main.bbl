@@ -1,0 +1,55 @@
+\begin{thebibliography}{1}
+
+\bibitem{agarwalpersonalized2012}
+D~Agarwal, B~C Chen, P~Elango, and X~Wang.
+\newblock {Personalized click shaping through lagrangian duality for online
+  recommendation}.
+\newblock In {\em Proceedings of the 35th {\ldots}}, 2012.
+
+\bibitem{capellesemantics-based2012}
+M~Capelle, F~Frasincar, and M~Moerland.
+\newblock {Semantics-based news recommendation}.
+\newblock In {\em Proceedings of the 2nd {\ldots}}, 2012.
+
+\bibitem{dasgoogle2007}
+A~S Das, M~Datar, A~Garg, and S~Rajaram.
+\newblock {Google news personalization: scalable online collaborative
+  filtering}.
+\newblock In {\em Proceedings of the 16th {\ldots}}, 2007.
+
+\bibitem{Fortuna:2010jx}
+Bla{\v z} Fortuna, Carolina Fortuna, and Dunja Mladeni{\'c}.
+\newblock {Real-Time News Recommender System}.
+\newblock {\em Machine Learning and Knowledge Discovery in Databases},
+  6323(Chapter 38):583--586, 2010.
+
+\bibitem{garcinpersonalized2013}
+F~Garcin, K~Zhou, B~Faltings, and V~Schickel.
+\newblock {Personalized news recommendation based on collaborative filtering}.
+\newblock {\em {\ldots} of the The 2012 IEEE/WIC/ {\ldots}}, 2012.
+
+\bibitem{Iaquinta:2008id}
+L~Iaquinta, M~de~Gemmis, P~Lops, G~Semeraro, M~Filannino, and P~Molino.
+\newblock {Introducing Serendipity in a Content-Based Recommender System}.
+\newblock {\em Audio, Transactions of the IRE Professional Group on}, pages
+  168--173, September 2008.
+
+\bibitem{ilievskipersonalized2013}
+I~Ilievski and S~Roy.
+\newblock {Personalized news recommendation based on implicit feedback}.
+\newblock In {\em Proceedings of the 2013 International News {\ldots}}, 2013.
+
+\bibitem{linews2013}
+L~Li and T~Li.
+\newblock {News recommendation via hypergraph learning: encapsulation of user
+  behavior and news content}.
+\newblock In {\em Proceedings of the sixth ACM international conference
+  {\ldots}}, 2013.
+
+\bibitem{Lv:2011jv}
+Yuanhua Lv, Taesup Moon, Pranam Kolari, Zhaohui Zheng, Xuanhui Wang, and
+  Yi~Chang.
+\newblock {Learning to model relatedness for news recommendation}.
+\newblock {\em the 20th international conference}, pages 57--66, March 2011.
+
+\end{thebibliography}
